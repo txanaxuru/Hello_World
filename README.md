@@ -1,2 +1,3 @@
-# Hello_World
- primeiro repositório- git e github
+# Hello World!
+ primeiro repositório, git e github.
+ aprendendo a se comunicar.
